@@ -40,9 +40,3 @@ The model's evaluation results in key metrics provided insights into customer be
 - Explore other machine learning models like Random Forest and XGBoost for improved prediction accuracy.
 - Implement a feature selection technique to enhance model performance.
 - Expand the analysis to include more customer demographics.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-```
-
-You can adjust the content as needed for your specific project.
